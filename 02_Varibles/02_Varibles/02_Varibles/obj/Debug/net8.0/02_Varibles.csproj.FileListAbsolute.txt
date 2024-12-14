@@ -1,0 +1,14 @@
+C:\Users\akada\Desktop\Masaüstü\VisualStudio\C#_Egitim_Kampı\02_Varibles\02_Varibles\bin\Debug\net8.0\02_Varibles.exe
+C:\Users\akada\Desktop\Masaüstü\VisualStudio\C#_Egitim_Kampı\02_Varibles\02_Varibles\bin\Debug\net8.0\02_Varibles.deps.json
+C:\Users\akada\Desktop\Masaüstü\VisualStudio\C#_Egitim_Kampı\02_Varibles\02_Varibles\bin\Debug\net8.0\02_Varibles.runtimeconfig.json
+C:\Users\akada\Desktop\Masaüstü\VisualStudio\C#_Egitim_Kampı\02_Varibles\02_Varibles\bin\Debug\net8.0\02_Varibles.dll
+C:\Users\akada\Desktop\Masaüstü\VisualStudio\C#_Egitim_Kampı\02_Varibles\02_Varibles\bin\Debug\net8.0\02_Varibles.pdb
+C:\Users\akada\Desktop\Masaüstü\VisualStudio\C#_Egitim_Kampı\02_Varibles\02_Varibles\obj\Debug\net8.0\02_Varibles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akada\Desktop\Masaüstü\VisualStudio\C#_Egitim_Kampı\02_Varibles\02_Varibles\obj\Debug\net8.0\02_Varibles.AssemblyInfoInputs.cache
+C:\Users\akada\Desktop\Masaüstü\VisualStudio\C#_Egitim_Kampı\02_Varibles\02_Varibles\obj\Debug\net8.0\02_Varibles.AssemblyInfo.cs
+C:\Users\akada\Desktop\Masaüstü\VisualStudio\C#_Egitim_Kampı\02_Varibles\02_Varibles\obj\Debug\net8.0\02_Varibles.csproj.CoreCompileInputs.cache
+C:\Users\akada\Desktop\Masaüstü\VisualStudio\C#_Egitim_Kampı\02_Varibles\02_Varibles\obj\Debug\net8.0\02_Varibles.dll
+C:\Users\akada\Desktop\Masaüstü\VisualStudio\C#_Egitim_Kampı\02_Varibles\02_Varibles\obj\Debug\net8.0\refint\02_Varibles.dll
+C:\Users\akada\Desktop\Masaüstü\VisualStudio\C#_Egitim_Kampı\02_Varibles\02_Varibles\obj\Debug\net8.0\02_Varibles.pdb
+C:\Users\akada\Desktop\Masaüstü\VisualStudio\C#_Egitim_Kampı\02_Varibles\02_Varibles\obj\Debug\net8.0\02_Varibles.genruntimeconfig.cache
+C:\Users\akada\Desktop\Masaüstü\VisualStudio\C#_Egitim_Kampı\02_Varibles\02_Varibles\obj\Debug\net8.0\ref\02_Varibles.dll
