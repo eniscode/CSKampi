@@ -1,0 +1,14 @@
+C:\Users\akada\Desktop\Masaüstü\VisualStudio\C#_Egitim_Kampı\05_LoopsApp\05_LoopsApp\bin\Debug\net8.0\05_LoopsApp.exe
+C:\Users\akada\Desktop\Masaüstü\VisualStudio\C#_Egitim_Kampı\05_LoopsApp\05_LoopsApp\bin\Debug\net8.0\05_LoopsApp.deps.json
+C:\Users\akada\Desktop\Masaüstü\VisualStudio\C#_Egitim_Kampı\05_LoopsApp\05_LoopsApp\bin\Debug\net8.0\05_LoopsApp.runtimeconfig.json
+C:\Users\akada\Desktop\Masaüstü\VisualStudio\C#_Egitim_Kampı\05_LoopsApp\05_LoopsApp\bin\Debug\net8.0\05_LoopsApp.dll
+C:\Users\akada\Desktop\Masaüstü\VisualStudio\C#_Egitim_Kampı\05_LoopsApp\05_LoopsApp\bin\Debug\net8.0\05_LoopsApp.pdb
+C:\Users\akada\Desktop\Masaüstü\VisualStudio\C#_Egitim_Kampı\05_LoopsApp\05_LoopsApp\obj\Debug\net8.0\05_LoopsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akada\Desktop\Masaüstü\VisualStudio\C#_Egitim_Kampı\05_LoopsApp\05_LoopsApp\obj\Debug\net8.0\05_LoopsApp.AssemblyInfoInputs.cache
+C:\Users\akada\Desktop\Masaüstü\VisualStudio\C#_Egitim_Kampı\05_LoopsApp\05_LoopsApp\obj\Debug\net8.0\05_LoopsApp.AssemblyInfo.cs
+C:\Users\akada\Desktop\Masaüstü\VisualStudio\C#_Egitim_Kampı\05_LoopsApp\05_LoopsApp\obj\Debug\net8.0\05_LoopsApp.csproj.CoreCompileInputs.cache
+C:\Users\akada\Desktop\Masaüstü\VisualStudio\C#_Egitim_Kampı\05_LoopsApp\05_LoopsApp\obj\Debug\net8.0\05_LoopsApp.dll
+C:\Users\akada\Desktop\Masaüstü\VisualStudio\C#_Egitim_Kampı\05_LoopsApp\05_LoopsApp\obj\Debug\net8.0\refint\05_LoopsApp.dll
+C:\Users\akada\Desktop\Masaüstü\VisualStudio\C#_Egitim_Kampı\05_LoopsApp\05_LoopsApp\obj\Debug\net8.0\05_LoopsApp.pdb
+C:\Users\akada\Desktop\Masaüstü\VisualStudio\C#_Egitim_Kampı\05_LoopsApp\05_LoopsApp\obj\Debug\net8.0\05_LoopsApp.genruntimeconfig.cache
+C:\Users\akada\Desktop\Masaüstü\VisualStudio\C#_Egitim_Kampı\05_LoopsApp\05_LoopsApp\obj\Debug\net8.0\ref\05_LoopsApp.dll

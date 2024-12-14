@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "04_Loops": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

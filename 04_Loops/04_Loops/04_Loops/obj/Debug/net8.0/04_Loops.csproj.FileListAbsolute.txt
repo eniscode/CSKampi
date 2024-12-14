@@ -1,0 +1,14 @@
+C:\Users\akada\Desktop\Masaüstü\VisualStudio\C#_Egitim_Kampı\04_Loops\04_Loops\bin\Debug\net8.0\04_Loops.exe
+C:\Users\akada\Desktop\Masaüstü\VisualStudio\C#_Egitim_Kampı\04_Loops\04_Loops\bin\Debug\net8.0\04_Loops.deps.json
+C:\Users\akada\Desktop\Masaüstü\VisualStudio\C#_Egitim_Kampı\04_Loops\04_Loops\bin\Debug\net8.0\04_Loops.runtimeconfig.json
+C:\Users\akada\Desktop\Masaüstü\VisualStudio\C#_Egitim_Kampı\04_Loops\04_Loops\bin\Debug\net8.0\04_Loops.dll
+C:\Users\akada\Desktop\Masaüstü\VisualStudio\C#_Egitim_Kampı\04_Loops\04_Loops\bin\Debug\net8.0\04_Loops.pdb
+C:\Users\akada\Desktop\Masaüstü\VisualStudio\C#_Egitim_Kampı\04_Loops\04_Loops\obj\Debug\net8.0\04_Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akada\Desktop\Masaüstü\VisualStudio\C#_Egitim_Kampı\04_Loops\04_Loops\obj\Debug\net8.0\04_Loops.AssemblyInfoInputs.cache
+C:\Users\akada\Desktop\Masaüstü\VisualStudio\C#_Egitim_Kampı\04_Loops\04_Loops\obj\Debug\net8.0\04_Loops.AssemblyInfo.cs
+C:\Users\akada\Desktop\Masaüstü\VisualStudio\C#_Egitim_Kampı\04_Loops\04_Loops\obj\Debug\net8.0\04_Loops.csproj.CoreCompileInputs.cache
+C:\Users\akada\Desktop\Masaüstü\VisualStudio\C#_Egitim_Kampı\04_Loops\04_Loops\obj\Debug\net8.0\04_Loops.dll
+C:\Users\akada\Desktop\Masaüstü\VisualStudio\C#_Egitim_Kampı\04_Loops\04_Loops\obj\Debug\net8.0\refint\04_Loops.dll
+C:\Users\akada\Desktop\Masaüstü\VisualStudio\C#_Egitim_Kampı\04_Loops\04_Loops\obj\Debug\net8.0\04_Loops.pdb
+C:\Users\akada\Desktop\Masaüstü\VisualStudio\C#_Egitim_Kampı\04_Loops\04_Loops\obj\Debug\net8.0\04_Loops.genruntimeconfig.cache
+C:\Users\akada\Desktop\Masaüstü\VisualStudio\C#_Egitim_Kampı\04_Loops\04_Loops\obj\Debug\net8.0\ref\04_Loops.dll

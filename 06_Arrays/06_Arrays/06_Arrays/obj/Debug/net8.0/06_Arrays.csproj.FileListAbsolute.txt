@@ -1,0 +1,14 @@
+C:\Users\akada\Desktop\Masaüstü\VisualStudio\C#_Egitim_Kampı\06_Arrays\06_Arrays\bin\Debug\net8.0\06_Arrays.exe
+C:\Users\akada\Desktop\Masaüstü\VisualStudio\C#_Egitim_Kampı\06_Arrays\06_Arrays\bin\Debug\net8.0\06_Arrays.deps.json
+C:\Users\akada\Desktop\Masaüstü\VisualStudio\C#_Egitim_Kampı\06_Arrays\06_Arrays\bin\Debug\net8.0\06_Arrays.runtimeconfig.json
+C:\Users\akada\Desktop\Masaüstü\VisualStudio\C#_Egitim_Kampı\06_Arrays\06_Arrays\bin\Debug\net8.0\06_Arrays.dll
+C:\Users\akada\Desktop\Masaüstü\VisualStudio\C#_Egitim_Kampı\06_Arrays\06_Arrays\bin\Debug\net8.0\06_Arrays.pdb
+C:\Users\akada\Desktop\Masaüstü\VisualStudio\C#_Egitim_Kampı\06_Arrays\06_Arrays\obj\Debug\net8.0\06_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akada\Desktop\Masaüstü\VisualStudio\C#_Egitim_Kampı\06_Arrays\06_Arrays\obj\Debug\net8.0\06_Arrays.AssemblyInfoInputs.cache
+C:\Users\akada\Desktop\Masaüstü\VisualStudio\C#_Egitim_Kampı\06_Arrays\06_Arrays\obj\Debug\net8.0\06_Arrays.AssemblyInfo.cs
+C:\Users\akada\Desktop\Masaüstü\VisualStudio\C#_Egitim_Kampı\06_Arrays\06_Arrays\obj\Debug\net8.0\06_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\akada\Desktop\Masaüstü\VisualStudio\C#_Egitim_Kampı\06_Arrays\06_Arrays\obj\Debug\net8.0\06_Arrays.dll
+C:\Users\akada\Desktop\Masaüstü\VisualStudio\C#_Egitim_Kampı\06_Arrays\06_Arrays\obj\Debug\net8.0\refint\06_Arrays.dll
+C:\Users\akada\Desktop\Masaüstü\VisualStudio\C#_Egitim_Kampı\06_Arrays\06_Arrays\obj\Debug\net8.0\06_Arrays.pdb
+C:\Users\akada\Desktop\Masaüstü\VisualStudio\C#_Egitim_Kampı\06_Arrays\06_Arrays\obj\Debug\net8.0\06_Arrays.genruntimeconfig.cache
+C:\Users\akada\Desktop\Masaüstü\VisualStudio\C#_Egitim_Kampı\06_Arrays\06_Arrays\obj\Debug\net8.0\ref\06_Arrays.dll
