@@ -1,0 +1,14 @@
+C:\Users\akada\Desktop\Masaüstü\VisualStudio\C#_Egitim_Kampı\01_MainSubject\01_MainSubject\bin\Debug\net8.0\01_MainSubject.exe
+C:\Users\akada\Desktop\Masaüstü\VisualStudio\C#_Egitim_Kampı\01_MainSubject\01_MainSubject\bin\Debug\net8.0\01_MainSubject.deps.json
+C:\Users\akada\Desktop\Masaüstü\VisualStudio\C#_Egitim_Kampı\01_MainSubject\01_MainSubject\bin\Debug\net8.0\01_MainSubject.runtimeconfig.json
+C:\Users\akada\Desktop\Masaüstü\VisualStudio\C#_Egitim_Kampı\01_MainSubject\01_MainSubject\bin\Debug\net8.0\01_MainSubject.dll
+C:\Users\akada\Desktop\Masaüstü\VisualStudio\C#_Egitim_Kampı\01_MainSubject\01_MainSubject\bin\Debug\net8.0\01_MainSubject.pdb
+C:\Users\akada\Desktop\Masaüstü\VisualStudio\C#_Egitim_Kampı\01_MainSubject\01_MainSubject\obj\Debug\net8.0\01_MainSubject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akada\Desktop\Masaüstü\VisualStudio\C#_Egitim_Kampı\01_MainSubject\01_MainSubject\obj\Debug\net8.0\01_MainSubject.AssemblyInfoInputs.cache
+C:\Users\akada\Desktop\Masaüstü\VisualStudio\C#_Egitim_Kampı\01_MainSubject\01_MainSubject\obj\Debug\net8.0\01_MainSubject.AssemblyInfo.cs
+C:\Users\akada\Desktop\Masaüstü\VisualStudio\C#_Egitim_Kampı\01_MainSubject\01_MainSubject\obj\Debug\net8.0\01_MainSubject.csproj.CoreCompileInputs.cache
+C:\Users\akada\Desktop\Masaüstü\VisualStudio\C#_Egitim_Kampı\01_MainSubject\01_MainSubject\obj\Debug\net8.0\01_MainSubject.dll
+C:\Users\akada\Desktop\Masaüstü\VisualStudio\C#_Egitim_Kampı\01_MainSubject\01_MainSubject\obj\Debug\net8.0\refint\01_MainSubject.dll
+C:\Users\akada\Desktop\Masaüstü\VisualStudio\C#_Egitim_Kampı\01_MainSubject\01_MainSubject\obj\Debug\net8.0\01_MainSubject.pdb
+C:\Users\akada\Desktop\Masaüstü\VisualStudio\C#_Egitim_Kampı\01_MainSubject\01_MainSubject\obj\Debug\net8.0\01_MainSubject.genruntimeconfig.cache
+C:\Users\akada\Desktop\Masaüstü\VisualStudio\C#_Egitim_Kampı\01_MainSubject\01_MainSubject\obj\Debug\net8.0\ref\01_MainSubject.dll
