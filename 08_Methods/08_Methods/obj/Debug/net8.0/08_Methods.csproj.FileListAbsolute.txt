@@ -1,0 +1,14 @@
+C:\Users\akada\OneDrive\Desktop\Masaüstü\VisualStudio\C#_Egitim_Kampı\08_Methods\08_Methods\obj\Debug\net8.0\08_Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akada\OneDrive\Desktop\Masaüstü\VisualStudio\C#_Egitim_Kampı\08_Methods\08_Methods\obj\Debug\net8.0\08_Methods.AssemblyInfoInputs.cache
+C:\Users\akada\OneDrive\Desktop\Masaüstü\VisualStudio\C#_Egitim_Kampı\08_Methods\08_Methods\obj\Debug\net8.0\08_Methods.AssemblyInfo.cs
+C:\Users\akada\OneDrive\Desktop\Masaüstü\VisualStudio\C#_Egitim_Kampı\08_Methods\08_Methods\obj\Debug\net8.0\08_Methods.csproj.CoreCompileInputs.cache
+C:\Users\akada\OneDrive\Desktop\Masaüstü\VisualStudio\C#_Egitim_Kampı\08_Methods\08_Methods\bin\Debug\net8.0\08_Methods.exe
+C:\Users\akada\OneDrive\Desktop\Masaüstü\VisualStudio\C#_Egitim_Kampı\08_Methods\08_Methods\bin\Debug\net8.0\08_Methods.deps.json
+C:\Users\akada\OneDrive\Desktop\Masaüstü\VisualStudio\C#_Egitim_Kampı\08_Methods\08_Methods\bin\Debug\net8.0\08_Methods.runtimeconfig.json
+C:\Users\akada\OneDrive\Desktop\Masaüstü\VisualStudio\C#_Egitim_Kampı\08_Methods\08_Methods\bin\Debug\net8.0\08_Methods.dll
+C:\Users\akada\OneDrive\Desktop\Masaüstü\VisualStudio\C#_Egitim_Kampı\08_Methods\08_Methods\bin\Debug\net8.0\08_Methods.pdb
+C:\Users\akada\OneDrive\Desktop\Masaüstü\VisualStudio\C#_Egitim_Kampı\08_Methods\08_Methods\obj\Debug\net8.0\08_Methods.dll
+C:\Users\akada\OneDrive\Desktop\Masaüstü\VisualStudio\C#_Egitim_Kampı\08_Methods\08_Methods\obj\Debug\net8.0\refint\08_Methods.dll
+C:\Users\akada\OneDrive\Desktop\Masaüstü\VisualStudio\C#_Egitim_Kampı\08_Methods\08_Methods\obj\Debug\net8.0\08_Methods.pdb
+C:\Users\akada\OneDrive\Desktop\Masaüstü\VisualStudio\C#_Egitim_Kampı\08_Methods\08_Methods\obj\Debug\net8.0\08_Methods.genruntimeconfig.cache
+C:\Users\akada\OneDrive\Desktop\Masaüstü\VisualStudio\C#_Egitim_Kampı\08_Methods\08_Methods\obj\Debug\net8.0\ref\08_Methods.dll
