@@ -36,5 +36,5 @@ Geriye değer döndüren fonksiyonlarla daha dinamik ve kullanıcı etkileşimli
 ___
 
 📍 Proje 9: Veritabanı Tabanlı Ürün ve Kategori Sistemi
-Bu projede veritabanı ile çalışmayı deneyimledim. SqlConnection ve SqlCommand sınıflarını kullanarak veritabanına bağlanıp sorgular çalıştırdım. Tablo verilerini çekip ekran üzerinde listeledim. Bu proje, veritabanı işlemleri hakkında bana çok şey kattı. 💾
+Bu projede veritabanı ile çalışmayı deneyimledim. SqlConnection ve SqlCommand sınıflarını kullanarak veritabanına bağlanıp sorgular çalıştırdım. Tablo verilerini çekip ekran üzerinde listeledim. Bu proje, veritabanı işlemleri hakkında bana çok şey kattı. 🤖👌
 ___
