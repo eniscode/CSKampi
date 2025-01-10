@@ -1,4 +1,4 @@
-🎉 C# Eğitim Kampı Projeleri
+﻿🎉 C# Eğitim Kampı Projeleri
 
 Bu depo, Murat Yücedağ'ın rehberliğinde tamamlanan C# Eğitim Kampı sürecindeki ilk 10 projeyi içermektedir. Her bir proje, temel C# programlama bilgilerini anlamama ve pratik yapmama yardımcı oldu. Aşağıda her bir projeye dair özet bilgileri bulabilirsiniz:
 
