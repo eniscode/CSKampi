@@ -1,6 +1,6 @@
 # 🚀 C# EĞİTİM KAMPI PROJELERİ
 
-Bu depo, Murat Yücedağ'ın rehberliğinde tamamlanan C# Eğitim Kampı sürecindeki ilk 10 projeyi içermektedir. Her bir proje, temel C# programlama bilgilerini anlamama ve pratik yapmama yardımcı oldu. Aşağıda her bir projeye dair özet bilgileri bulabilirsiniz:
+Herkese Merhaba, Murat Yücedağ'ın rehberliğinde tamamlanan Youtube C# Eğitim Kampı sürecindeki projeler burada. Her bir proje, temel C# programlama bilgilerini anlamama ve pratik yapmama yardımcı oldu. Aşağıda her bir projeye dair özet bilgileri bulabilirsiniz:
 ___
 
 📍Proje 1: Merhaba Dünya!
