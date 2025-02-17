@@ -50,7 +50,7 @@ ___
 
 ## 📍 Proje 11: Entity Framework ile Seyahat İstatistik Paneli
 ---
-![Entity Framework ile Seyahat İstatistik Paneli]([https://resim-platformu.com/gorsel.png](https://drive.google.com/file/d/1GqNJrLX6Z4zoE9GE6JceA6W0EjmMnvpR/view?usp=sharing))
+((https://drive.google.com/file/d/1GqNJrLX6Z4zoE9GE6JceA6W0EjmMnvpR/view?usp=sharing))
 Bu projede **Entity Framework** kullanarak bir seyahat veri tabanındaki bilgileri sorgulayıp görselleştiren bir istatistik paneli geliştirdim. Proje, **Windows Forms** üzerinde çeşitli istatistikleri canlı olarak kullanıcıya göstermeyi amaçladı. 💻
 
 ### **Projede Yer Alan Özellikler**
