@@ -50,7 +50,7 @@ ___
 
 ## 📍 Proje 11: Entity Framework ile Seyahat İstatistik Paneli
 ---
-((https://drive.google.com/file/d/1GqNJrLX6Z4zoE9GE6JceA6W0EjmMnvpR/view?usp=sharing))
+![Entity Framework ile Seyahat İstatistik Paneli](https://github.com/eniscode/CSKampi/blob/main/CSharpEgitimKampi301.EFProject/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-02-18%20014824.png?raw=true)
 Bu projede **Entity Framework** kullanarak bir seyahat veri tabanındaki bilgileri sorgulayıp görselleştiren bir istatistik paneli geliştirdim. Proje, **Windows Forms** üzerinde çeşitli istatistikleri canlı olarak kullanıcıya göstermeyi amaçladı. 💻
 
 ### **Projede Yer Alan Özellikler**
